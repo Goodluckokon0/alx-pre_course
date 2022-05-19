@@ -1,1 +1,1 @@
-touch up_to_date
+echo 'up to date' > up_to_date
